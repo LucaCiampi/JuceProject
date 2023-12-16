@@ -1,0 +1,6 @@
+# JUCE files
+**/Builds
+**/JuceLibraryCode
+
+# MACOS files
+**/.DS_Store
